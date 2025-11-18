@@ -1,7 +1,4 @@
 {
-  "/login/page": "app/login/page.js",
-  "/home/page": "app/home/page.js",
   "/dive-create/page": "app/dive-create/page.js",
-  "/dive-create/second/page": "app/dive-create/second/page.js",
-  "/page": "app/page.js"
+  "/dive-create/second/page": "app/dive-create/second/page.js"
 }
