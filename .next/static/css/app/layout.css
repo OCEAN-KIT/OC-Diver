@@ -396,9 +396,6 @@
   .h-6 {
     height: calc(var(--spacing) * 6);
   }
-  .h-9 {
-    height: calc(var(--spacing) * 9);
-  }
   .h-10 {
     height: calc(var(--spacing) * 10);
   }
@@ -452,9 +449,6 @@
   }
   .w-\[380px\] {
     width: 380px;
-  }
-  .w-\[480px\] {
-    width: 480px;
   }
   .w-full {
     width: 100%;
