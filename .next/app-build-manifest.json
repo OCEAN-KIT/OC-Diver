@@ -21,21 +21,21 @@
       "static/chunks/main-app.js",
       "static/chunks/app/home/page.js"
     ],
-    "/manifest.webmanifest/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/manifest.webmanifest/route.js"
-    ],
-    "/register/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/register/page.js"
-    ],
     "/dive-create/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/dive-create/page.css",
       "static/chunks/app/dive-create/page.js"
+    ],
+    "/manifest.webmanifest/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/manifest.webmanifest/route.js"
+    ],
+    "/submit-management/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/submit-management/page.js"
     ]
   }
 }
