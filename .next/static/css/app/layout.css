@@ -1344,6 +1344,17 @@
 .cheon-grid--english {
   grid-template-columns: repeat(4,1fr);
 }
+@media (max-width: 768px) {
+  input,
+  textarea,
+  select {
+    font-size: 16px !important;
+  }
+}
+html,
+body {
+  background: #f9fafb;
+}
 @property --tw-translate-x {
   syntax: "*";
   inherits: false;
