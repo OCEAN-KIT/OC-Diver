@@ -1240,6 +1240,11 @@
       scale: 0.997;
     }
   }
+  .disabled\:cursor-not-allowed {
+    &:disabled {
+      cursor: not-allowed;
+    }
+  }
   .disabled\:bg-gray-200 {
     &:disabled {
       background-color: var(--color-gray-200);
